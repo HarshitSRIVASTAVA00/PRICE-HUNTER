@@ -3,8 +3,7 @@
 > **AI-Powered E-commerce Price Intelligence Platform**
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages)](https://harshitsrivastava00.github.io/PRICE-HUNTER/)
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
+
 
 **Smart Price Hunter** is an advanced e-commerce price intelligence and comparison web application designed to help users track, compare, and discover the best deals across multiple online stores. Powered by simulated AI agents, it scans the e-commerce landscape to bring you real-time price comparisons, deal scores, and maximum savings analysis.
 
